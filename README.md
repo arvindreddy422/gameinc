@@ -19,5 +19,5 @@ int main()
               printf("\twelldone\nyou guess %d correct number ,in %d times",guess,noofattempts);       
           noofattempts++;      
         }while(num!=guess);     
-    return 0;
+    return 1;
 }
