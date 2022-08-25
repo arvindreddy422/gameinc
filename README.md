@@ -21,3 +21,4 @@ int main()
         }while(num!=guess);     
     return 0;
 }
+aravind
